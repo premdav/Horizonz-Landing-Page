@@ -29,6 +29,10 @@ canvas {
     font-weight: 600;
 }
 
+.fa.fa-bars {
+    color: #A394BD;
+}
+
 .nav-link {
     color: #A394BD;
 }
